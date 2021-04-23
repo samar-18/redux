@@ -1,0 +1,129 @@
+.body{
+    
+    position: absolute;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+
+
+}
+.all{
+    display: flex;
+  text-align: center;
+  flex-direction:column ;
+  justify-content: space-between;
+  width:18rem;
+  
+}
+
+
+.butt1 {
+    background-color: white; 
+    color: black; 
+    border: 1px solid #008CBA;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-variant: small-caps;
+    
+  }
+  
+  .butt1:hover {
+    background-color: #008CBA;
+    color: white;
+    
+  }
+  .butt2 {
+    background-color: white; 
+    color: black; 
+    border: 1px solid #4CAF50;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-variant: small-caps;
+  }
+  
+  .butt2:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .butt3 {
+    background-color: white; 
+    color: black; 
+    border: 1px solid #f44336;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-variant: small-caps;
+  }
+  
+  .butt3:hover {
+    background-color: #f44336;
+    color: white;
+  }
+  .butt5 {
+    background-color: white;
+    color: black;
+    border: 1px solid #e7e7e7;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-variant: small-caps;
+  }
+  
+  .butt5:hover {
+    background-color:#e7e7e7;
+    color: white;
+  }
+  .butt6 {
+    background-color: white;
+    color: black;
+    border: 1px solid #ff0000;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-variant: small-caps;
+  }
+  
+  .butt6:hover {
+    background-color:#ff0000;
+    color: white;
+  }
+  .butt{
+    width: 30px;
+    height: 50px;
+    padding: 50px;
+    display: flex;
+    align-items: stretch;
+    font-variant: small-caps;
+    margin-left: 100%;
+   
+    
+    
+
+  }
